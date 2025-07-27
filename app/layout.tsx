@@ -36,7 +36,7 @@ export const metadata: Metadata = {
     description: "AI-powered platform for street food vendors",
     images: ["/og-image.jpg"],
   },
-    generator: 'v0.dev'
+    generator: 'Anubhab Rakshit'
 }
 
 export default function RootLayout({
